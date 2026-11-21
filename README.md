@@ -18,14 +18,14 @@
   </picture>
 </a>
 &nbsp;
-<a href="https://wa.me/62881025268810" title="WhatsApp">
+<a href="https://api.whatsapp.com/send?phone=62881025268810" title="WhatsApp">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/mario-social-whatsapp-dark.svg" />
     <img alt="WhatsApp" src="./assets/mario-social-whatsapp-light.svg" width="54" height="54" />
   </picture>
 </a>
 &nbsp;
-<a href="https://www.instagram.com/kadekagga" title="Instagram">
+<a href="https://www.instagram.com/kadekagga?utm_source=qr&amp;bqrl=eGgwdDdrNXJ0dzMy" title="Instagram">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/mario-social-instagram-dark.svg" />
     <img alt="Instagram" src="./assets/mario-social-instagram-light.svg" width="54" height="54" />
@@ -44,6 +44,26 @@
     <source media="(prefers-color-scheme: dark)" srcset="./assets/mario-social-github-dark.svg" />
     <img alt="GitHub" src="./assets/mario-social-github-light.svg" width="54" height="54" />
   </picture>
+</a>
+
+<br />
+<br />
+
+<!-- Level Select Shortcuts (jump to sections) -->
+<a href="#about-me">
+  <img src="https://img.shields.io/badge/PLAYER%201-About%20Me-E52521?style=for-the-badge&logo=nintendo&logoColor=white" alt="About Me" />
+</a>
+<a href="#power-up-arsenal">
+  <img src="https://img.shields.io/badge/POWER--UPS-Tech%20Stack-1D63DC?style=for-the-badge&logo=gamepad&logoColor=white" alt="Tech Stack" />
+</a>
+<a href="#world-map">
+  <img src="https://img.shields.io/badge/WORLD%20MAP-Featured%20Projects-22A822?style=for-the-badge&logo=nintendo&logoColor=white" alt="Featured Projects" />
+</a>
+<a href="#arcade-status">
+  <img src="https://img.shields.io/badge/ARCADE-High%20Score-7C3AED?style=for-the-badge&logo=retroarch&logoColor=white" alt="Arcade Status" />
+</a>
+<a href="https://github.com/ikadekaggasugitha-cell?tab=repositories">
+  <img src="https://img.shields.io/badge/QUESTS-9%20Public%20Repos-F8B800?style=for-the-badge&logo=github&logoColor=111827" alt="Repositories" />
 </a>
 
 <br />
