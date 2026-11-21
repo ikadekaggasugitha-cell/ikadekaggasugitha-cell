@@ -1,7 +1,11 @@
 <div align="center">
 
-<!-- Animated Super Mario Bros World 1-1 Hero Banner -->
-<img src="./assets/mario-hero.svg" alt="I Kadek Agga Sugitha — Super Mario Bros Animated Profile Banner" width="100%" />
+<!-- Auto Light/Dark Super Mario Bros Animated Hero Banner -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/mario-hero-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/mario-hero-light.svg" />
+  <img alt="I Kadek Agga Sugitha — Super Mario Bros Animated Profile Banner" src="./assets/mario-hero-light.svg" width="100%" />
+</picture>
 
 <br />
 <br />
@@ -34,7 +38,11 @@ Hi! I'm **I Kadek Agga Sugitha**, a **Full-Stack Software Engineer & AI/ML Devel
 - 📬 **Warp Zone (Contact):** [ikadekaggasugitha@gmail.com](mailto:ikadekaggasugitha@gmail.com)
 
 <div align="center">
-  <img src="./assets/mario-powerups.svg" alt="Super Mario Power-Up Engineering Specialties" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/mario-powerups-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/mario-powerups-light.svg" />
+    <img alt="Super Mario Power-Up Engineering Specialties" src="./assets/mario-powerups-light.svg" width="100%" />
+  </picture>
 </div>
 
 ---
@@ -56,7 +64,11 @@ Hi! I'm **I Kadek Agga Sugitha**, a **Full-Stack Software Engineer & AI/ML Devel
 <br />
 
 <div align="center">
-  <img src="./assets/mario-divider.svg" alt="Animated Super Mario Coin Dash Divider" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/mario-divider-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/mario-divider-light.svg" />
+    <img alt="Animated Super Mario Coin Dash Divider" src="./assets/mario-divider-light.svg" width="100%" />
+  </picture>
 </div>
 
 ---
@@ -107,12 +119,20 @@ Hi! I'm **I Kadek Agga Sugitha**, a **Full-Stack Software Engineer & AI/ML Devel
 ## 🏆 Player 1 Arcade Status
 
 <div align="center">
-  <img src="./assets/mario-arcade-stats.svg" alt="Super Mario Retro Arcade Stats and Power-Up Skill Meter" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/mario-arcade-stats-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/mario-arcade-stats-light.svg" />
+    <img alt="Super Mario Retro Arcade Stats and Power-Up Skill Meter" src="./assets/mario-arcade-stats-light.svg" width="100%" />
+  </picture>
 </div>
 
 <br />
 
 <div align="center">
-  <!-- Animated Super Mario Bros Course Clear Night Castle & Fireworks Footer -->
-  <img src="./assets/mario-footer.svg" alt="Course Clear — Super Mario Bros Night Castle & Fireworks Footer" width="100%" />
+  <!-- Auto Light/Dark Super Mario Bros Course Clear Castle Footer -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/mario-footer-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/mario-footer-light.svg" />
+    <img alt="Course Clear — Super Mario Bros Castle Footer" src="./assets/mario-footer-light.svg" width="100%" />
+  </picture>
 </div>
